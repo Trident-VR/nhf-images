@@ -9,3 +9,14 @@
 9|EVE|wall-e robot pixar|1|8|590|768
 10|Gwen|total drama island|1|9|481|606
 11|Mavis|hotel transylvania vampire|1|10|597|707
+12|Shadow the Hedgehog|sonic sega|1|11|616|768
+13|Shego|kim possible villain|1|12|682|768
+14|Raven|teen titans dc|1|13|512|768
+15|The Great Prince|bambi deer stag disney|1|14|500|601
+16|Gill|finding nemo fish pixar|1|15|512|768
+17|Spirit|stallion of the cimarron horse dreamworks|1|16|768|768
+18|Karen|spongebob plankton computer wife|1|17|512|768
+19|Magic Carpet|aladdin disney rug|1|18|485|696
+20|Chain Chomp|mario nintendo|1|19|518|445
+21|The Ocean|moana disney wave water|1|20|657|521
+22|Bubble Buddy|spongebob bubble|1|21|200|285
