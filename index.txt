@@ -12,7 +12,7 @@
 12|Shadow the Hedgehog|sonic sega|1|11|616|768
 13|Shego|kim possible villain|1|12|682|768
 14|Raven|teen titans dc|1|13|512|768
-15|The Great Prince|bambi deer stag disney|1|14|500|601
+15|The Great Prince of the Forest|bambi deer stag disney|1|14|500|601
 16|Gill|finding nemo fish pixar|1|15|512|768
 17|Spirit|stallion of the cimarron horse dreamworks|1|16|768|768
 18|Karen|spongebob plankton computer wife|1|17|512|768
@@ -56,7 +56,7 @@
 56|Princess Bubblegum|adventure time|1|55|600|600
 57|Squilliam|spongebob fancyson|1|56|640|640
 58|Yzma|emperors new groove disney villain|1|57|614|768
-59|Hei Hei|moana chicken rooster disney|1|58|472|768
+59|Heihei|moana chicken rooster disney hei hei|1|58|472|768
 60|Roxanne|goofy movie disney|1|59|464|768
 61|Captain Hook|peter pan disney villain|1|60|726|768
 62|Marceline|adventure time vampire|1|61|640|681
@@ -162,3 +162,4 @@
 162|Pitch Black|rise of the guardians boogeyman|3|33|433|768
 163|Phil|hercules philoctetes disney|3|34|736|736
 164|Hades|hercules disney villain|3|35|335|597
+165|Gorg Commander|home dreamworks alien gorg|3|36|418|479
